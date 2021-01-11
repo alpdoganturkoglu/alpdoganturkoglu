@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/4CIIoo3.gif"> </img>
 </p>
 <hr>
-<p align ='center'>Mobile developer from Istanbul,Turkey</p>
+<p align ='center'>Mobile app developer from Istanbul,Turkey</p>
 <p align ='center'>I am currently studying at Suleyman Demirel University </p>
 <p align ='center'> I :heart: Aviation </p>
 
