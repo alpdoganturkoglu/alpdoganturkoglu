@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></img>
 </p>
 
@@ -29,5 +30,8 @@
 <a href= "mailto:alpdoganturkoglu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 </a>
- <img align='right' src="https://komarev.com/ghpvc/?username=alpdoganturkoglu&style=plastic"></img>
+<a href="https://www.instagram.com/alpdoganturkoglu/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
+</a>
+<img align='right' src="https://komarev.com/ghpvc/?username=alpdoganturkoglu&style=plastic"></img>
 </p>
