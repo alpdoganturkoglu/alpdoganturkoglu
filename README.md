@@ -3,9 +3,6 @@
 </p>
 <hr>
 
-<p align ='center'>I am currently studying at Suleyman Demirel University </p>
-<p align ='center'> I :heart: Aviation </p>
-
 
 <p align='center'>
 <img src=https://github-readme-stats.vercel.app/api/?username=alpdoganturkoglu&count_private=true&theme=tokyonight&showicons=true)></img>
